@@ -1,0 +1,18 @@
+{
+  "type": "record",
+  "name": "Course",
+  "namespace": "schemas",
+  "fields": [
+    {
+      "name": "id",
+      "type": "long"
+    },
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "description",
+      "type": "string"
+    }]
+}
